@@ -1,7 +1,7 @@
 {
   "name": "gruvbox-material-cursor",
   "displayName": "Gruvbox Material Cursor",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "engines": {
     "vscode": "^1.60.0"
   },
